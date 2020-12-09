@@ -1,0 +1,138 @@
+{
+  "CPU": [
+    {
+      "id": 1,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 2,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 3,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 4,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 5,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 6,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 7,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 8,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 9,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 10,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "name": "argarg",
+      "attr": "arhgaethe",
+      "article": "235245245",
+      "id": 11
+    }
+  ],
+  "MB": [
+    {
+      "id": 1,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 2,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 3,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 4,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 5,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 6,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 7,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 8,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 9,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "id": 10,
+      "name": "Мат.плата ASRock 'B450M PRO4-F'",
+      "article": "148696",
+      "attr": "(AMD B450, 4xDDR4, M.2, SATA III, RAID, PCI-E, D-Sub, DVI, HDMI, 1Гбит LAN, USB3.1, mATX) (ret)"
+    },
+    {
+      "name": "argarg",
+      "attr": "arhgaethe",
+      "article": "235245245",
+      "id": 11
+    }
+  ]
+}
